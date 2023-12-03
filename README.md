@@ -1,2 +1,4 @@
 # RemoveBP
 terrible no good awful chrome extension
+it literally only removes this thing from your youtube page.
+![image](https://github.com/tazlsucks/RemoveBP/assets/82299965/85ed0374-6d51-4447-9d44-8d3a820a2ad1)
